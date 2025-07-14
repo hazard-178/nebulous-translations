@@ -804,7 +804,7 @@
     <string name="Enter_a_Tournament">Partecipa ad un torneo</string>
     <string name="Win_a_Tournament">Vinci un torneo</string>
     <string name="Tournament_Competing">Torneo in competizione</string>
-    <string name="Tournament_Registered">Iscritto al torneo</string>
+    <string name="Tournament_Registered">torneo registrato</string>
     <string name="Tournament">Torneo</string>
     <string name="TourneyDescription">Ti devi iscrivere per giocare nel torneo. Ti sarà tolto il plasma quando inizierà il torneo ma puoi disiscriverti prima che inizi. Il torneo inizierà quando ci saranno almeno %d concorrenti.</string>
     <string name="Register">Iscriviti</string>
